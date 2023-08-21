@@ -16,14 +16,15 @@ I like programming, inventing things that can make people's lives easier and mak
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"title="MongpDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
+
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaLabydin)](https://github.com/anuraghazra/github-readme-stats)\
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaLabydin&theme=dark&show_icons=true)\
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanilaLabydin&theme=dark&background=000000)](https://git.io/streak-stats)\
--->
+
 
 
 <!--
