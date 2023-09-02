@@ -1,8 +1,8 @@
 <h3 align="center">Hi there 👋</h3>
 
-<text allign="center">My name is Danila Labydin :)
+<div align="center">My name is Danila Labydin :)
 I am a Software Developer from Russia. At the moment I am studying for a master's degree at the St. Petersburg State University of Aerospace Instrumentation (SUAI) where I study software engineering.
-I like programming, inventing things that can make people's lives easier and make them happy.</text>
+I like programming, inventing things that can make people's lives easier and make them happy.</div>
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
 <div align="center">
@@ -21,7 +21,13 @@ I like programming, inventing things that can make people's lives easier and mak
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img / src="https://github-readme-stats.vercel.app/api?username=DanilaLabydin&theme=dark&background=000000">
+    <img / src="https://github-readme-stats.vercel.app/api?username=DanilaLabydin&theme=dark&background=000000"width=450>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img / src="https://streak-stats.demolab.com?user=DanilaLabydin&theme=dark&background=000000" width=450>
   </a>
 </div>
 
