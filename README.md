@@ -31,13 +31,21 @@ I like programming, inventing things that can make people's lives easier and mak
   </a>
 </div>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaLabydin&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)\
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaLabydin&theme=dark&show_icons=true)\
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanilaLabydin&theme=dark&background=000000)](https://git.io/streak-stats)!-->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img / src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaLabydin&hide=HTML&theme=dark&background=000000" width=450 >
+  </a>
+</div>
+
+
+
 
 
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilaLabydin&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanilaLabydin&theme=dark&show_icons=true)\
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanilaLabydin&theme=dark&background=000000)](https://git.io/streak-stats)
 **DanilaLabydin/DanilaLabydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
