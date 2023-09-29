@@ -25,11 +25,13 @@ I like programming, inventing things that can make people's lives easier and mak
   </a>
 </div>
 
+<!--
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img / src="https://streak-stats.demolab.com?user=DanilaLabydin&theme=dark&background=000000" width=450>
   </a>
 </div>
+!-->
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
